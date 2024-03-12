@@ -13,8 +13,8 @@ Currently, two official plugins are available:
    * 
 
 ## To be done 
-   * Ask ChatGPT "when should i use ES6 modules, give me some examples" 
-   * Ask ChatGPT "give me an overview of ES6 import and export different functionalities with example"
+   * Ask ChatGPT _"when should i use ES6 modules, give me some examples"_ 
+   * Ask ChatGPT _"give me an overview of ES6 import and export different functionalities with example"_
 
 
 
